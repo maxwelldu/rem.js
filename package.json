@@ -1,6 +1,6 @@
 {
-  "name": "rem.js",
-  "version": "1.0.0",
+  "name": "rem-js",
+  "version": "1.0.1",
   "description": "rem",
   "main": "index.js",
   "scripts": {
